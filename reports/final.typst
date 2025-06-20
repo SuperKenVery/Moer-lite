@@ -77,6 +77,8 @@
   ```
 )
 
+完整的代码更改在#link("https://github.com/SuperKenVery/Moer-lite/pull/1", [此pr])中。
+
 == 动手实现
 手册上的难度评分诚不我欺，disney bsdf确实比较简单，对着公式照抄就好了。
 
